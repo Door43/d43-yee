@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yee:home|Door43 (yee)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yee|d43-yee repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yee/archive/master.zip|d43-yee.zip]]
+
+**Recent Changes**
+{{changes>ns = yee}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yee|Ethnologue data]]
+
